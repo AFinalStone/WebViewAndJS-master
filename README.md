@@ -1,6 +1,7 @@
- ### JS和Android交互调用
+ ## Android和H5、JS进行交互调用
 
->Android开发过程中，我们或多或少都会用到webview，使用webview来展示一些经常变动的界面更加方便简单，也更易于维护。在使用webview来展示网页的时候，有些时候我们需要通过JS和Android原生控件进行交互，以实现自己需要的效果或功能，本文通过一个demo简单实现了JS和Android原生控件的交互。
+>Android开发过程中，我们或多或少都会用到webview，使用webview来展示一些经常变动的界面更加方便简单，也更易于维护。另一方面hybrid App开发也现在用的也越来越多了，其中native和h5之间的交互更是必不可少的。Android中是如何和H5交互的？或者说Android中是如何和JS交互的？
+
 
 #### 一、webView加载页面
 
