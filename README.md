@@ -199,15 +199,15 @@ mWebView.setWebViewClient(new WebViewClient() {
 
 - alert弹窗：
 
-![](picture/alert.png)
+![alert弹窗](picture/alert.png)
 
 - 重绘confirm弹窗：
 
-![](picture/confirm.png)
+![confirm弹窗](picture/confirm.png)
 
 - 重绘prompt弹窗：
 
-![](picture/prompt.png)
+![prompt弹窗](picture/prompt.png)
 
 - 具体代码：
 
