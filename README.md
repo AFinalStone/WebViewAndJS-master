@@ -199,15 +199,15 @@ mWebView.setWebViewClient(new WebViewClient() {
 
 - alert弹窗：
 
-![](picture\alert.png)
+![](picture/alert.png)
 
 - 重绘confirm弹窗：
 
-![](picture\confirm.png)
+![](picture/confirm.png)
 
 - 重绘prompt弹窗：
 
-![](picture\prompt.png)
+![](picture/prompt.png)
 
 - 具体代码：
 
@@ -319,7 +319,7 @@ mWebView.setWebViewClient(new WebViewClient() {
 
 #### 五、效果图以及代码布局文件：
 
-![效果图](picture\GIF.gif)
+![效果图](picture/GIF.gif)
 
 界面上方是两个按钮，下方是一个webview控件，开启页面自动加载url，这里为了方便学习，
 我已经写了一个html文件放置在了Asset文件中，通过 file:///android_asset/test.html 来进行加载。
